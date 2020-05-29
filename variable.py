@@ -11,7 +11,7 @@ class Caja:
 
 #Creamos dos objetos
 caja = Caja(2,3,4)
-caja2 = Caja(5,5,2)
+caja1 = Caja(5,5,2)
 
 print("El volumen es: ", caja.caculaVolumen())
-print("El volumen2 es: ", caja2.caculaVolumen())
+print("El volumen1 es: ", caja1.caculaVolumen())
